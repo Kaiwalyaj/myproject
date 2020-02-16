@@ -17,7 +17,7 @@
 
 
 <body>
-	<h2>All Employees Data for Year between 2019-2020</h2>	
+	<h2>All Employees Data for Year between 2019-2020 - VERSION 2.0.6</h2>	
 	<table>
 		<tr>
 			<td>Employee Name</td><td>EMP Joining Date</td><td>Meetings Scheduled</td><td>ID</td><td></td>
